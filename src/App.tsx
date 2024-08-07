@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <div className='flex justify-center text-center '>
+    <div className='flex justify-center text-center w-screen'>
     <div>
     <div className=" text-[25px] font-bold RobotoMono">
     <h1 >COMING</h1>
