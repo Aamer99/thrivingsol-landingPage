@@ -24,7 +24,8 @@ module.exports = {
         smDesktop: { max: "1500px", min: "1200px"}
       },
       fontFamily: {
-        montserrat: ["Montserrat"],
+        DMSans: ["DM Sans"],
+        RobotoMono:["Roboto Mono"],
       },
     },
   },
